@@ -1,0 +1,6 @@
+{
+  "name": "SewTrak",
+  "description": "SewTrak: A comprehensive garment hourly production tracker with data entry, master data management, executive dashboards, and a real-time Line Dashboard with AI-driven insights, and an Automatic AI / ML IoT Sewing Counter.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
